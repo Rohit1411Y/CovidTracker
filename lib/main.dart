@@ -1,4 +1,7 @@
+import 'package:covid_tracker/Models/CountryListModel.dart';
+import 'package:covid_tracker/View/countries_list.dart';
 import 'package:covid_tracker/View/splash_screen.dart';
+import 'package:covid_tracker/View/worlds_stats.dart';
 import 'package:flutter/material.dart';
 
 void main() {
